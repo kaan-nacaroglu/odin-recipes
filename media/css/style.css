@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(228, 208, 228);
+
+}
+
+img{
+    height: auto;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1{
+    text-align: center;
+    color:rgb(104, 80, 18)
+}
